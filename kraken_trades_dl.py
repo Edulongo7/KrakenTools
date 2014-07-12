@@ -83,8 +83,6 @@ secret='SECRET GOES HERE'
 
 api_version="/0/"
 krak = kraken(key,secret)
-pairs={}
-ledger_type="deposit"
 
 header=""
 header+="timestamp"+"\t"
